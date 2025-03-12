@@ -1,11 +1,12 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: CSS Variable
 
 ---
 
-### X/X/XX:
-* Text
+### 3/12/25:
+* I learned how to use Variable to re-use it somewhere again without wasting time on it to code it again.  
+* It's such as first you put ```main-company-color: green;``` then you'd be able to use this color with variable by doing this ```color: var(main-company-color);```
 
 ### X/X/XX:
 * Text
