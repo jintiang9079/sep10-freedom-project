@@ -10,6 +10,12 @@
 * I tried these in [JSBin](https://jsbin.com/?html,output)
 * It worked out pretty well, but I'm going to find more useful tech's with this.
 
+### 3/23/25:
+* I learned that variables could also be used for bootstrap components.
+* Like for cards ```card-padding: 20px;``` and you do ``` padding: var(--card-padding);```.
+* I tried these in [JSBin](https://jsbin.com/?html,output)
+* I am currently still exploring for more use with CSS Variables, but I've already got a decent amount of the whole concept of CSS Variables.
+
 ### X/X/XX:
 * Text
 
