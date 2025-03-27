@@ -16,6 +16,10 @@
 * I tried these in [JSBin](https://jsbin.com/?html,output)
 * I am currently still exploring for more use with CSS Variables, but I've already got a decent amount of the whole concept of CSS Variables.
 
+### 3/27/25:
+* As I've have exceeded the learning of CSS Variables, I'll be learning Aframes as my secondary tool in my Freedom Project now.
+* 
+
 ### X/X/XX:
 * Text
 
