@@ -18,7 +18,10 @@
 
 ### 3/27/25:
 * As I've have exceeded the learning of CSS Variables, I'll be learning Aframes as my secondary tool in my Freedom Project now.
-* 
+* To access the Aframes you must input ```<script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>```, this will allow the website to read the script and access the aframe.
+* To create a scene for objects, you must use ```<a-scene>```, this will allow aframes to create a scene that will hold all the objects for aframes.
+* You can create shapes by using these codes: ```<a-box>  <a-sphere>  <a-cylinder>  <a-plane> <a-sky>```, this will create objects.
+* You can do a lot of things with the objects using these codes: ```position=”” rotation=”” color=”” radius=”” height=”” width=””```.
 
 ### X/X/XX:
 * Text
