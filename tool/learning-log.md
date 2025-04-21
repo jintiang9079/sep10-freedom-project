@@ -23,8 +23,9 @@
 * You can create shapes by using these codes: ```<a-box>  <a-sphere>  <a-cylinder>  <a-plane> <a-sky>```, this will create objects.
 * You can do a lot of things with the objects using these codes: ```position=”” rotation=”” color=”” radius=”” height=”” width=””```.
 
-### X/X/XX:
-* Text
+### 4/20/25:
+* I learnt how to minimize aframe instead of it taking full screen space.
+* I learnt that stuff within aframe is all in html.
 
 
 <!-- 
