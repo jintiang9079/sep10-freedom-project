@@ -23,15 +23,15 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Center vertically */
-    align-items: center; /* Center horizontally */
-    text-align: center; /* Center text inside the container */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     color: white;
     padding-left: 5%;
   }
 
   #title-of-home {
-
+    padding-right: 5%;
     font-size: 2.5rem;
     font-weight: bold;
     text-shadow:
@@ -42,7 +42,8 @@ body {
         font-family: "Times New Roman", Times, serif;
   }
   #subtitle-of-home {
-
+    padding-right: 5%;
+    padding-bottom: 20%;
     font-size: 85%;
     font-weight: bold;
     text-shadow:
@@ -78,4 +79,28 @@ body {
     width: 300px;
     height: 300px;
 
+  }
+
+  #infotitle {
+    padding-top: 5%;
+  }
+
+  #parta {
+    padding-top: 5%;
+  }
+  #partainfo {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+  }
+  #partaimg {
+    width: 400px;
+    height: 400px;
+  }
+  #partaimg2 {
+    width: 400px;
+    height: 400px;
+  }
+
+  #partb {
+    padding-top: 5%;
   }
