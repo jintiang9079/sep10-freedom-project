@@ -1,5 +1,5 @@
 body {
-    background-color: #E2E6F3;
+    background-color: #FAF6E9;
     padding-top: 55px;
 
   }
@@ -23,15 +23,15 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    text-align: left;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    text-align: center; /* Center text inside the container */
     color: white;
     padding-left: 5%;
   }
 
   #title-of-home {
-    padding-top: 5%;
-    padding-left: 45%;
+
     font-size: 2.5rem;
     font-weight: bold;
     text-shadow:
@@ -42,13 +42,40 @@ body {
         font-family: "Times New Roman", Times, serif;
   }
   #subtitle-of-home {
-    padding-top: 1%;
-    padding-left: 15%;
+
+    font-size: 85%;
     font-weight: bold;
     text-shadow:
         -2px -2px 2px black,
         2px -2px 2px black,
         -2px 2px 2px black,
         2px 2px 2px black;
-        font-family: "Times New Roman", Times, serif;
+        font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  #home2 {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  #info {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+  }
+
+  #infoimg {
+    width: 400px;
+    height: 300px;
+
+  }
+
+  #infoimg2 {
+    width: 400px;
+    height: 300px;
+
+  }
+
+  #infoimg3 {
+    width: 300px;
+    height: 300px;
+
   }
