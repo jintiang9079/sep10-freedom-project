@@ -104,3 +104,7 @@ body {
   #partb {
     padding-top: 5%;
   }
+  #partbinfo {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+  }
