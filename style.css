@@ -1,7 +1,7 @@
 body {
     background-color: #FAF6E9;
     padding-top: 55px;
-
+    overflow-x: hidden;
   }
 
   #nav-img {
