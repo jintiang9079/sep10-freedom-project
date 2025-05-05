@@ -112,3 +112,8 @@ body {
   #aframe {
     padding-top: 5%;
   }
+
+  #aframedes {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+  }
