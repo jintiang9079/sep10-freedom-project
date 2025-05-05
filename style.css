@@ -54,7 +54,7 @@ body {
         font-family: "Lucida Console", "Courier New", monospace;
   }
 
-  #home2 {
+  .home2 {
     font-family: "Times New Roman", Times, serif;
   }
 
@@ -107,4 +107,8 @@ body {
   #partbinfo {
     font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
+  }
+
+  #aframe {
+    padding-top: 5%;
   }
