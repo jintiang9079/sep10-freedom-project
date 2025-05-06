@@ -17,6 +17,7 @@
 #### MVP
 
 * 4/28 code index, finish planning
+* 5/4 Finish coding
 
 ---
 
