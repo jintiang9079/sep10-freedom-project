@@ -64,22 +64,12 @@ body {
   }
 
   #infoimg {
-    width: 400px;
-    height: 300px;
+    width: 350px;
+    height: 225px;
 
   }
 
-  #infoimg2 {
-    width: 400px;
-    height: 300px;
 
-  }
-
-  #infoimg3 {
-    width: 300px;
-    height: 300px;
-
-  }
 
   #infotitle {
     padding-top: 5%;
@@ -92,13 +82,10 @@ body {
     font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
   }
-  #partaimg {
-    width: 400px;
-    height: 400px;
-  }
+
   #partaimg2 {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
   }
 
   #partb {
@@ -117,3 +104,5 @@ body {
     font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
   }
+
+ 
