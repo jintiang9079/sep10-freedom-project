@@ -49,3 +49,8 @@ Re-color stuff to make the website eye-catchy [❌]
 Re-word titles or texts in case people do not understand. [✅] - Completed [Date done: 05/07/25]
 
 * Least important task
+
+
+Revisions
+- Improve the style of the website, such as text colors.
+- Try more components and match the overall style and topic.
