@@ -105,4 +105,23 @@ body {
     text-align: center;
   }
 
- 
+  #startbut:hover {
+    background-color: #555;
+
+  }
+
+  #slide21:hover {
+    background-color: grey;
+  }
+
+  #slide22:hover {
+    background-color: grey;
+  }
+
+  #slide11:hover {
+    background-color: grey;
+  }
+
+  #slide12:hover {
+    background-color: grey;
+  }
