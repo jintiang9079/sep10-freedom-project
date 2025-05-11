@@ -125,3 +125,40 @@ body {
   #slide12:hover {
     background-color: grey;
   }
+
+  #intro {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #111;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+  font-size: 2em;
+  animation: fadeOut 1s ease 2s forwards;
+}
+
+
+#main-content {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+  padding: 20px;
+}
+
+
+#main-content.show {
+  opacity: 1;
+  transform: scale(1);
+}
+
+
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
