@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I will introduce my project, it's topic and say what it's made of.
 
 ## Product
-* 
+* I will show them my website and overall view.
 
 ## Process
-* 
+* I will tell them what I learend first and how did I come all the way to this final moment and code the website.
 
 ## Conclusion
-* 
+*  I will end up with a "and that's how I created my website" and also a thank you any questions.
 
 <!-- EXAMPLE
 
