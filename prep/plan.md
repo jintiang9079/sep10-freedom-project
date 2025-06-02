@@ -43,12 +43,12 @@
 
 [✅] - Completed [Date done: XX/XX/25]
 [❌] - Incompleted
-* Most important task
-Add more Bootstrap Components [✅] - Completed [Date done: 05/07/25]
-Re-color stuff to make the website eye-catchy [❌]
-Re-word titles or texts in case people do not understand. [✅] - Completed [Date done: 05/07/25]
+* Most important task  
+Add more Bootstrap Components [✅] - Completed [Date done: 05/07/25]  
+Re-color stuff to make the website eye-catchy [❌]  
+Re-word titles or texts in case people do not understand. [✅] - Completed [Date done: 05/07/25]  
 
-* Least important task
+* Least important task  
 
 
 Revisions
