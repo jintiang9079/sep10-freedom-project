@@ -1,24 +1,26 @@
 # SEP10 Freedom Project
-by **X**
+by **Jintian gao**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Art**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Aframe and CSS Variables** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://jintiang9079.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1RqL_B8LIUZKdGfoStcOfgktHdusv-N0cWv_1kvC2P0A/edit)
 
 ## Implications
 ##### PROS
-* 
+* Learned how to code in HTML, CSS and more.
+* Gained notes and useful for the future.
+* Portfolio made for the future.
 ##### CONS
-* 
+* Spent a year.
 
 
 ## Blog
