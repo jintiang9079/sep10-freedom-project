@@ -25,7 +25,7 @@ To be better at presenting to others in-person and online, I would ask people fo
 # Skill
 Since my last blog, I've learnt **new skills**, two skills I've learnt are:  
 - Planning how to present
-- How to present in front of others
+- How to present in front of others  
 Basically, planning a presentation was a bit difficult as you have to include a hook and details on how I managed to do my project, but I learnt how to plan after my presentation in class, and my teacher gave me tips on how I could do it better.
 And presenting in front of others required me a lot of courage, I did it though because it was required but after me presenting in front of others I realized that it wasn't that hard and I then presented with confidence and I believe I will continue to do so in the future.  
 [Previous](entry06.md) | [Next](entry08.md)
